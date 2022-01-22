@@ -1,4 +1,4 @@
-# Calculadora simples em react
+# Calculadora simples usando react
 ![gif (5)](https://user-images.githubusercontent.com/98053054/150658221-2bce7084-8a19-4857-aa6e-79c3cf6c7ef4.gif)
 
 
